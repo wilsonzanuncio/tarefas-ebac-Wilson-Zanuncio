@@ -1,0 +1,18 @@
+PASSO-A-PASSO - PRIMEIROS PASSOS DA MANHÃ
+
+1 - Acordar naturalmente no horário que o corpo decidir (sem uso de despertador)
+2 - Levantar da cama
+3 - O dia está frio?
+	3.1 - Se sim: Abrir a janela do quarto
+	3.2 - Se não: Não abrir a janela do quarto
+4 - Arrumar a cama
+5 - Dirigir-se a sala
+6 - O dia está frio?
+	6.1 - Se sim: Abrir a janela e a porta da sala
+	6.2 - Se não: Manter o ambiente fechado
+7 - Colocar água para esquentar
+8 - Preparar os itens para preparo do café
+9 - Enquanto a água não ferve:
+	9.1 - Procurar algo para assistir na TV
+	9.2 - Observar se a água começou a ferver
+10 - Preparar o café e planejar os estudos da manhã.
